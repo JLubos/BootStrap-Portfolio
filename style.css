@@ -1,0 +1,70 @@
+body{
+	background-image: url('images/background.png');
+}
+
+
+
+/* Main Content */
+
+.navbar{
+	background-color: white;
+	position: static;
+}
+
+
+#left{
+	background: white;
+	position: relative;
+}
+
+
+
+#one, #two, #three, #four, #five{
+	height: 100px;
+	width: 100px;
+	margin: 1px;
+
+
+}
+
+h2{
+	border-bottom: solid 2px #cccccc;
+	text-align: center;
+}
+
+h3{
+	border-bottom: solid 2px #cccccc;
+	text-align: center;
+}
+
+p{
+	font-size: 12px;
+
+
+}
+
+/* Connect With me */
+
+.aside{
+	position: static;
+	height: 200px;
+	width: 450px;
+	background-color: white;
+
+}
+
+.aside img{
+	display:inline;
+	padding: 2px;
+	height: 90%;
+	width: 90%;
+}
+
+/* Footer */
+footer{
+
+	left: 0;
+    bottom: 0;
+    position: relative;
+  
+}
